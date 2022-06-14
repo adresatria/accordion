@@ -1,3 +1,4 @@
+<script type="text/plain" id="accordion" target="amp-script">
 var acc = document.getElementsByClassName("accordion");
 var i;
 
@@ -12,5 +13,4 @@ for (i = 0; i < acc.length; i++) {
     } 
   });
 }
-
-//# sourceMappingURL=include.accordion.js.map
+</script>
